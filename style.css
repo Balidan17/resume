@@ -1,0 +1,36 @@
+.headerstyle{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    background-color: aquamarine;
+    text-align: center;
+    border: 10px solid aquamarine;
+    border-radius: 5px;
+}
+.image{
+    margin: 10px 1px 1px 1px;
+}
+.button{
+background-color:AntiqueWhite;
+font-size: medium;
+font-family: cursive;
+border: 1px solid aliceblue;
+padding: 5px ;
+border-radius: 5px;
+}
+body{
+    background-color:Turquoise;
+}
+hr{
+    border: 2px solid white;
+    border-radius: 10px;
+}
+table{
+    border: 5px solid white;
+    border-radius: 10px;
+}
+.message{
+    font-family:'Times New Roman', Times, serif;
+    border: 2px solid white;
+    border-radius: 5px;
+    
+}
